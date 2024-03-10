@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class StudentScoreManagement {
     ArrayList<Student> studentlist = new ArrayList<>();
     String studentpathname = "C:\\Users\\53256\\IdeaProjects\\new student\\src\\student\\studentlist.txt";
-    public  void importfile() throws IOException {
+    public  void importfile() throws IOException {            //
 
 
         try {
